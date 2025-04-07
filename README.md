@@ -114,6 +114,7 @@ The project includes a GitHub Action that automatically syncs your forks every 2
      - Permissions:
        - Repository permissions:
          - Contents: Read and write (to sync forks and update history)
+         - Workflow: Read and write (to update the history file)
          - Metadata: Read-only (required for repository information)
          - Actions: Read-only (to check workflow status)
          - Administration: Read-only (to check fork relationships)
