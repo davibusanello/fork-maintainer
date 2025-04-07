@@ -1,0 +1,47 @@
+name: Sync Forks with Upstream
+
+on:
+  schedule:
+    - cron: '0 0 */2 * *'  # Run every 2 days at midnight UTC
+  workflow_dispatch:       # Allow manual triggers
+
+jobs:
+  sync-forks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version-file: ".bun-version"
+
+
+      # This cache can be shared across workflows since it uses a workflow-independent cache key
+      # To use in other workflows, copy this exact cache configuration
+      - name: Cache Bun dependencies
+        uses: actions/cache@v3
+        with:
+          path: |
+            ~/.bun/install/cache
+            node_modules
+          key: ${{ runner.os }}-bun-${{ hashFiles('**/bun.lockb') }}
+          restore-keys: |
+            ${{ runner.os }}-bun-
+
+      - name: Install dependencies
+        run: bun install
+
+      - name: Run script to sync forks with upstream
+        run: bun start-sync-forks
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
+
+      - name: Commit and push updated processed forks list
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add storage/synced-forks.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update synced forks History"
+          git push

@@ -1,0 +1,31 @@
+{
+  "name": "fork-maintainer",
+  "version": "1.0.0",
+  "description": "A utility tool to help maintain and secure your GitHub fork repositories",
+  "type": "module",
+  "main": "src",
+  "scripts": {
+    "start-disable-actions": "bun run src/actions-disabler.ts",
+    "start-sync-forks": "bun run src/sync-forks.ts"
+  },
+  "keywords": [
+    "github",
+    "forks",
+    "security",
+    "actions",
+    "automation"
+  ],
+  "author": "Davi Busanello <itsme@davibusanello.me>",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^20.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "bun-types": "^1.0.35"
+  },
+  "engines": {
+    "bun": ">=1.2",
+    "node": ">=23.6"
+  }
+}
