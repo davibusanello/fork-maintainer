@@ -1,5 +1,7 @@
 # Fork Maintainer
 
+[![Sync Forks Status](https://github.com/davibusanello/fork-maintainer/actions/workflows/sync-forks-with-upstream.yml/badge.svg)](https://github.com/davibusanello/fork-maintainer/actions/workflows/sync-forks-with-upstream.yml)
+
 A utility tool to help maintain and sync your GitHub fork repositories. Currently, it focuses on syncing your fork repositories with their upstream repositories.
 
 ## Features
