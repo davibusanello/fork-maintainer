@@ -3,7 +3,7 @@
     "name": "boletos",
     "original_repository": "Danielpk/boletos",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:32.539Z",
+    "last_synced": "2025-11-29T00:14:38.742Z",
     "sync_history": [
       {
         "status": "success",
@@ -608,6 +608,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:32.539Z",
         "message": "This branch is not behind the upstream Danielpk:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:38.742Z",
+        "message": "This branch is not behind the upstream Danielpk:master."
       }
     ]
   },
@@ -615,7 +620,7 @@
     "name": "cakephp-netbeans",
     "original_repository": "unknown",
     "last_sync_status": "skipped",
-    "last_synced": "2025-11-27T00:14:33.540Z",
+    "last_synced": "2025-11-29T00:14:39.743Z",
     "sync_history": [
       {
         "status": "skipped",
@@ -1216,6 +1221,11 @@
         "status": "skipped",
         "synced_at": "2025-11-27T00:14:33.540Z",
         "message": "Repository is archived"
+      },
+      {
+        "status": "skipped",
+        "synced_at": "2025-11-29T00:14:39.743Z",
+        "message": "Repository is archived"
       }
     ]
   },
@@ -1223,7 +1233,7 @@
     "name": "poignant-br",
     "original_repository": "akitaonrails/poignant-br",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:43.481Z",
+    "last_synced": "2025-11-29T00:15:58.089Z",
     "sync_history": [
       {
         "status": "success",
@@ -1828,6 +1838,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:43.481Z",
         "message": "This branch is not behind the upstream akitaonrails:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:58.089Z",
+        "message": "This branch is not behind the upstream akitaonrails:master."
       }
     ]
   },
@@ -1835,7 +1850,7 @@
     "name": "gedit-rails",
     "original_repository": "urubatan/gedit-rails",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:09.483Z",
+    "last_synced": "2025-11-29T00:15:19.940Z",
     "sync_history": [
       {
         "status": "success",
@@ -2440,6 +2455,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:09.483Z",
         "message": "This branch is not behind the upstream urubatan:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:19.940Z",
+        "message": "This branch is not behind the upstream urubatan:master."
       }
     ]
   },
@@ -2496,7 +2516,7 @@
     "name": "debug_kit",
     "original_repository": "cakephp/debug_kit",
     "last_sync_status": "skipped",
-    "last_synced": "2025-11-27T00:14:48.302Z",
+    "last_synced": "2025-11-29T00:14:56.273Z",
     "sync_history": [
       {
         "status": "success",
@@ -3101,6 +3121,11 @@
         "status": "skipped",
         "synced_at": "2025-11-27T00:14:48.302Z",
         "message": "Repository is archived"
+      },
+      {
+        "status": "skipped",
+        "synced_at": "2025-11-29T00:14:56.273Z",
+        "message": "Repository is archived"
       }
     ]
   },
@@ -3108,7 +3133,7 @@
     "name": "cakephp_menu_component",
     "original_repository": "markstory/cakephp_menu_component",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:34.019Z",
+    "last_synced": "2025-11-29T00:14:40.351Z",
     "sync_history": [
       {
         "status": "success",
@@ -3713,6 +3738,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:34.019Z",
         "message": "This branch is not behind the upstream markstory:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:40.351Z",
+        "message": "This branch is not behind the upstream markstory:master."
       }
     ]
   },
@@ -3720,7 +3750,7 @@
     "name": "migrations",
     "original_repository": "CakeDC/migrations",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:31.632Z",
+    "last_synced": "2025-11-29T00:15:44.806Z",
     "sync_history": [
       {
         "status": "success",
@@ -4325,6 +4355,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:31.632Z",
         "message": "This branch is not behind the upstream CakeDC:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:44.806Z",
+        "message": "This branch is not behind the upstream CakeDC:master."
       }
     ]
   },
@@ -4332,7 +4367,7 @@
     "name": "gmate",
     "original_repository": "gmate/gmate",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:12.417Z",
+    "last_synced": "2025-11-29T00:15:23.329Z",
     "sync_history": [
       {
         "status": "success",
@@ -4937,6 +4972,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:12.417Z",
         "message": "This branch is not behind the upstream gmate:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:23.329Z",
+        "message": "This branch is not behind the upstream gmate:master."
       }
     ]
   },
@@ -4944,7 +4984,7 @@
     "name": "jQuery-Mask-Plugin",
     "original_repository": "igorescobar/jQuery-Mask-Plugin",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:19.779Z",
+    "last_synced": "2025-11-29T00:15:31.506Z",
     "sync_history": [
       {
         "status": "success",
@@ -5549,6 +5589,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:19.779Z",
         "message": "This branch is not behind the upstream igorescobar:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:31.506Z",
+        "message": "This branch is not behind the upstream igorescobar:master."
       }
     ]
   },
@@ -5556,7 +5601,7 @@
     "name": "gitignore",
     "original_repository": "github/gitignore",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:10.989Z",
+    "last_synced": "2025-11-29T00:15:21.629Z",
     "sync_history": [
       {
         "status": "success",
@@ -6161,6 +6206,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:10.989Z",
         "message": "This branch is not behind the upstream github:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:21.629Z",
+        "message": "This branch is not behind the upstream github:main."
       }
     ]
   },
@@ -6168,7 +6218,7 @@
     "name": "Prince-of-Persia-Apple-II",
     "original_repository": "jmechner/Prince-of-Persia-Apple-II",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:44.944Z",
+    "last_synced": "2025-11-29T00:15:59.754Z",
     "sync_history": [
       {
         "status": "success",
@@ -6773,6 +6823,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:44.944Z",
         "message": "This branch is not behind the upstream jmechner:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:59.754Z",
+        "message": "This branch is not behind the upstream jmechner:master."
       }
     ]
   },
@@ -6780,7 +6835,7 @@
     "name": "textmate",
     "original_repository": "textmate/textmate",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:16:04.206Z",
+    "last_synced": "2025-11-29T00:16:21.438Z",
     "sync_history": [
       {
         "status": "success",
@@ -7385,6 +7440,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:16:04.206Z",
         "message": "This branch is not behind the upstream textmate:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:16:21.438Z",
+        "message": "This branch is not behind the upstream textmate:master."
       }
     ]
   },
@@ -7392,7 +7452,7 @@
     "name": "migration-estados-cidade-do-brasil",
     "original_repository": "eduresende/migration-estados-cidade-do-brasil",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:30.120Z",
+    "last_synced": "2025-11-29T00:15:43.030Z",
     "sync_history": [
       {
         "status": "success",
@@ -7997,6 +8057,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:30.120Z",
         "message": "This branch is not behind the upstream eduresende:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:43.030Z",
+        "message": "This branch is not behind the upstream eduresende:master."
       }
     ]
   },
@@ -8004,7 +8069,7 @@
     "name": "Rename",
     "original_repository": "galkn/Rename",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:53.830Z",
+    "last_synced": "2025-11-29T00:16:09.677Z",
     "sync_history": [
       {
         "status": "success",
@@ -8609,6 +8674,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:53.830Z",
         "message": "This branch is not behind the upstream galkn:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:16:09.677Z",
+        "message": "This branch is not behind the upstream galkn:master."
       }
     ]
   },
@@ -8616,7 +8686,7 @@
     "name": "Redlime",
     "original_repository": "tosher/Redlime",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:52.331Z",
+    "last_synced": "2025-11-29T00:16:08.026Z",
     "sync_history": [
       {
         "status": "success",
@@ -9221,6 +9291,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:52.331Z",
         "message": "This branch is not behind the upstream tosher:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:16:08.026Z",
+        "message": "This branch is not behind the upstream tosher:master."
       }
     ]
   },
@@ -9228,7 +9303,7 @@
     "name": "Legacy",
     "original_repository": "DBSeller/Legacy",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:22.767Z",
+    "last_synced": "2025-11-29T00:15:34.704Z",
     "sync_history": [
       {
         "status": "success",
@@ -9833,6 +9908,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:22.767Z",
         "message": "This branch is not behind the upstream DBSeller:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:34.704Z",
+        "message": "This branch is not behind the upstream DBSeller:master."
       }
     ]
   },
@@ -9840,7 +9920,7 @@
     "name": "calibre",
     "original_repository": "kovidgoyal/calibre",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:35.490Z",
+    "last_synced": "2025-11-29T00:14:42.061Z",
     "sync_history": [
       {
         "status": "success",
@@ -10445,6 +10525,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:35.490Z",
         "message": "This branch is not behind the upstream kovidgoyal:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:42.061Z",
+        "message": "Successfully fetched and fast-forwarded from upstream kovidgoyal:master."
       }
     ]
   },
@@ -10452,7 +10537,7 @@
     "name": "rails-dev-box",
     "original_repository": "rails/rails-dev-box",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:47.878Z",
+    "last_synced": "2025-11-29T00:16:03.079Z",
     "sync_history": [
       {
         "status": "success",
@@ -11057,6 +11142,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:47.878Z",
         "message": "This branch is not behind the upstream rails:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:16:03.079Z",
+        "message": "This branch is not behind the upstream rails:master."
       }
     ]
   },
@@ -11064,7 +11154,7 @@
     "name": "docker-aliases",
     "original_repository": "koalalorenzo/docker-aliases",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:53.287Z",
+    "last_synced": "2025-11-29T00:15:01.680Z",
     "sync_history": [
       {
         "status": "success",
@@ -11669,6 +11759,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:53.287Z",
         "message": "This branch is not behind the upstream koalalorenzo:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:01.680Z",
+        "message": "This branch is not behind the upstream koalalorenzo:master."
       }
     ]
   },
@@ -11676,7 +11771,7 @@
     "name": "docker-phpfarm",
     "original_repository": "splitbrain/docker-phpfarm",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:54.734Z",
+    "last_synced": "2025-11-29T00:15:03.328Z",
     "sync_history": [
       {
         "status": "success",
@@ -12281,6 +12376,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:54.734Z",
         "message": "This branch is not behind the upstream splitbrain:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:03.328Z",
+        "message": "This branch is not behind the upstream splitbrain:master."
       }
     ]
   },
@@ -12288,7 +12388,7 @@
     "name": "phantomjs",
     "original_repository": "ariya/phantomjs",
     "last_sync_status": "skipped",
-    "last_synced": "2025-11-27T00:15:43.033Z",
+    "last_synced": "2025-11-29T00:15:57.409Z",
     "sync_history": [
       {
         "status": "failed",
@@ -12894,6 +12994,11 @@
         "status": "skipped",
         "synced_at": "2025-11-27T00:15:43.033Z",
         "message": "Repository is archived"
+      },
+      {
+        "status": "skipped",
+        "synced_at": "2025-11-29T00:15:57.409Z",
+        "message": "Repository is archived"
       }
     ],
     "error": "There are merge conflicts - https://docs.github.com/rest/branches/branches#sync-a-fork-branch-with-the-upstream-repository"
@@ -12902,7 +13007,7 @@
     "name": "BackstopJS",
     "original_repository": "garris/BackstopJS",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:29.518Z",
+    "last_synced": "2025-11-29T00:14:35.373Z",
     "sync_history": [
       {
         "status": "success",
@@ -13507,6 +13612,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:29.518Z",
         "message": "This branch is not behind the upstream garris:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:35.373Z",
+        "message": "This branch is not behind the upstream garris:master."
       }
     ]
   },
@@ -13514,7 +13624,7 @@
     "name": "docker-files",
     "original_repository": "prooph/docker-files",
     "last_sync_status": "skipped",
-    "last_synced": "2025-11-27T00:14:54.288Z",
+    "last_synced": "2025-11-29T00:15:02.681Z",
     "sync_history": [
       {
         "status": "success",
@@ -14119,6 +14229,11 @@
         "status": "skipped",
         "synced_at": "2025-11-27T00:14:54.288Z",
         "message": "Repository is archived"
+      },
+      {
+        "status": "skipped",
+        "synced_at": "2025-11-29T00:15:02.681Z",
+        "message": "Repository is archived"
       }
     ]
   },
@@ -14126,7 +14241,7 @@
     "name": "awesome-go",
     "original_repository": "avelino/awesome-go",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:23.650Z",
+    "last_synced": "2025-11-29T00:14:28.776Z",
     "sync_history": [
       {
         "status": "success",
@@ -14731,6 +14846,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:23.650Z",
         "message": "Successfully fetched and fast-forwarded from upstream avelino:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:28.776Z",
+        "message": "This branch is not behind the upstream avelino:main."
       }
     ]
   },
@@ -14738,7 +14858,7 @@
     "name": "awesome",
     "original_repository": "sindresorhus/awesome",
     "last_sync_status": "failed",
-    "last_synced": "2025-11-27T00:14:17.802Z",
+    "last_synced": "2025-11-29T00:14:22.203Z",
     "sync_history": [
       {
         "status": "success",
@@ -15343,6 +15463,11 @@
         "status": "failed",
         "synced_at": "2025-11-27T00:14:17.802Z",
         "error": "There are merge conflicts - https://docs.github.com/rest/branches/branches#sync-a-fork-branch-with-the-upstream-repository"
+      },
+      {
+        "status": "failed",
+        "synced_at": "2025-11-29T00:14:22.203Z",
+        "error": "There are merge conflicts - https://docs.github.com/rest/branches/branches#sync-a-fork-branch-with-the-upstream-repository"
       }
     ],
     "error": "There are merge conflicts - https://docs.github.com/rest/branches/branches#sync-a-fork-branch-with-the-upstream-repository"
@@ -15351,7 +15476,7 @@
     "name": "awesome-elixir",
     "original_repository": "h4cc/awesome-elixir",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:20.656Z",
+    "last_synced": "2025-11-29T00:14:25.491Z",
     "sync_history": [
       {
         "status": "success",
@@ -15956,6 +16081,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:20.656Z",
         "message": "This branch is not behind the upstream h4cc:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:25.491Z",
+        "message": "This branch is not behind the upstream h4cc:master."
       }
     ]
   },
@@ -15963,7 +16093,7 @@
     "name": "awesome-elm",
     "original_repository": "sporto/awesome-elm",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:22.120Z",
+    "last_synced": "2025-11-29T00:14:27.131Z",
     "sync_history": [
       {
         "status": "success",
@@ -16568,6 +16698,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:22.120Z",
         "message": "This branch is not behind the upstream sporto:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:27.131Z",
+        "message": "This branch is not behind the upstream sporto:master."
       }
     ]
   },
@@ -16575,7 +16710,7 @@
     "name": "awesome-awesomeness",
     "original_repository": "bayandin/awesome-awesomeness",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:19.217Z",
+    "last_synced": "2025-11-29T00:14:23.891Z",
     "sync_history": [
       {
         "status": "success",
@@ -17180,6 +17315,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:19.217Z",
         "message": "This branch is not behind the upstream bayandin:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:23.891Z",
+        "message": "This branch is not behind the upstream bayandin:master."
       }
     ]
   },
@@ -17187,7 +17327,7 @@
     "name": "go-patterns",
     "original_repository": "tmrts/go-patterns",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:13.905Z",
+    "last_synced": "2025-11-29T00:15:24.888Z",
     "sync_history": [
       {
         "status": "success",
@@ -17792,6 +17932,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:13.905Z",
         "message": "This branch is not behind the upstream tmrts:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:24.888Z",
+        "message": "This branch is not behind the upstream tmrts:master."
       }
     ]
   },
@@ -17799,7 +17944,7 @@
     "name": "awesome-javascript-learning",
     "original_repository": "micromata/awesome-javascript-learning",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:25.092Z",
+    "last_synced": "2025-11-29T00:14:30.485Z",
     "sync_history": [
       {
         "status": "success",
@@ -18404,6 +18549,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:25.092Z",
         "message": "This branch is not behind the upstream micromata:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:30.485Z",
+        "message": "This branch is not behind the upstream micromata:master."
       }
     ]
   },
@@ -18411,7 +18561,7 @@
     "name": "ruby-bookmarks",
     "original_repository": "dreikanter/ruby-bookmarks",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:58.328Z",
+    "last_synced": "2025-11-29T00:16:14.708Z",
     "sync_history": [
       {
         "status": "success",
@@ -19016,6 +19166,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:58.328Z",
         "message": "This branch is not behind the upstream dreikanter:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:16:14.708Z",
+        "message": "This branch is not behind the upstream dreikanter:master."
       }
     ]
   },
@@ -19023,7 +19178,7 @@
     "name": "awesome-ruby",
     "original_repository": "markets/awesome-ruby",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:26.642Z",
+    "last_synced": "2025-11-29T00:14:32.131Z",
     "sync_history": [
       {
         "status": "success",
@@ -19628,6 +19783,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:26.642Z",
         "message": "This branch is not behind the upstream markets:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:32.131Z",
+        "message": "This branch is not behind the upstream markets:master."
       }
     ]
   },
@@ -19635,7 +19795,7 @@
     "name": "awesome-ruby-1",
     "original_repository": "sdogruyol/awesome-ruby",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:28.059Z",
+    "last_synced": "2025-11-29T00:14:33.774Z",
     "sync_history": [
       {
         "status": "success",
@@ -20240,6 +20400,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:28.059Z",
         "message": "This branch is not behind the upstream sdogruyol:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:33.774Z",
+        "message": "This branch is not behind the upstream sdogruyol:master."
       }
     ]
   },
@@ -20247,7 +20412,7 @@
     "name": "computer-science",
     "original_repository": "ossu/computer-science",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:47.301Z",
+    "last_synced": "2025-11-29T00:14:55.272Z",
     "sync_history": [
       {
         "status": "success",
@@ -20852,6 +21017,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:47.301Z",
         "message": "This branch is not behind the upstream ossu:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:55.272Z",
+        "message": "This branch is not behind the upstream ossu:master."
       }
     ]
   },
@@ -20859,7 +21029,7 @@
     "name": "colossus",
     "original_repository": "lucperkins/colossus",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:45.814Z",
+    "last_synced": "2025-11-29T00:14:53.692Z",
     "sync_history": [
       {
         "status": "success",
@@ -21464,6 +21634,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:45.814Z",
         "message": "This branch is not behind the upstream lucperkins:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:53.692Z",
+        "message": "This branch is not behind the upstream lucperkins:main."
       }
     ]
   },
@@ -21471,7 +21646,7 @@
     "name": "horovod",
     "original_repository": "horovod/horovod",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:16.941Z",
+    "last_synced": "2025-11-29T00:15:28.359Z",
     "sync_history": [
       {
         "status": "success",
@@ -22076,6 +22251,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:16.941Z",
         "message": "This branch is not behind the upstream horovod:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:28.359Z",
+        "message": "This branch is not behind the upstream horovod:master."
       }
     ]
   },
@@ -22083,7 +22263,7 @@
     "name": "thefuck",
     "original_repository": "nvbn/thefuck",
     "last_sync_status": "skipped",
-    "last_synced": "2025-11-27T00:16:05.205Z",
+    "last_synced": "2025-11-29T00:16:22.439Z",
     "sync_history": [
       {
         "status": "success",
@@ -22688,6 +22868,11 @@
         "status": "skipped",
         "synced_at": "2025-11-27T00:16:05.205Z",
         "message": "Repository is archived"
+      },
+      {
+        "status": "skipped",
+        "synced_at": "2025-11-29T00:16:22.439Z",
+        "message": "Repository is archived"
       }
     ]
   },
@@ -22695,7 +22880,7 @@
     "name": "100-days-of-code",
     "original_repository": "kallaway/100-days-of-code",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:07.277Z",
+    "last_synced": "2025-11-29T00:14:10.309Z",
     "sync_history": [
       {
         "status": "success",
@@ -23300,6 +23485,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:07.277Z",
         "message": "This branch is not behind the upstream kallaway:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:10.309Z",
+        "message": "This branch is not behind the upstream kallaway:master."
       }
     ]
   },
@@ -23307,7 +23497,7 @@
     "name": "vue-material-dashboard",
     "original_repository": "creativetimofficial/vue-material-dashboard",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:16:08.554Z",
+    "last_synced": "2025-11-29T00:16:26.312Z",
     "sync_history": [
       {
         "status": "success",
@@ -23912,6 +24102,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:16:08.554Z",
         "message": "This branch is not behind the upstream creativetimofficial:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:16:26.312Z",
+        "message": "This branch is not behind the upstream creativetimofficial:master."
       }
     ]
   },
@@ -23919,7 +24114,7 @@
     "name": "dotbot-pip",
     "original_repository": "sobolevn/dotbot-pip",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:56.244Z",
+    "last_synced": "2025-11-29T00:15:05.053Z",
     "sync_history": [
       {
         "status": "success",
@@ -24524,6 +24719,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:56.244Z",
         "message": "This branch is not behind the upstream sobolevn:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:05.053Z",
+        "message": "This branch is not behind the upstream sobolevn:master."
       }
     ]
   },
@@ -24531,7 +24731,7 @@
     "name": "mentoria",
     "original_repository": "training-center/mentoria",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:28.638Z",
+    "last_synced": "2025-11-29T00:15:41.290Z",
     "sync_history": [
       {
         "status": "success",
@@ -25136,6 +25336,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:28.638Z",
         "message": "This branch is not behind the upstream training-center:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:41.290Z",
+        "message": "This branch is not behind the upstream training-center:master."
       }
     ]
   },
@@ -25143,7 +25348,7 @@
     "name": "devdns",
     "original_repository": "ruudud/devdns",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:50.314Z",
+    "last_synced": "2025-11-29T00:14:58.552Z",
     "sync_history": [
       {
         "status": "success",
@@ -25748,6 +25953,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:50.314Z",
         "message": "This branch is not behind the upstream ruudud:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:58.552Z",
+        "message": "This branch is not behind the upstream ruudud:master."
       }
     ]
   },
@@ -25755,7 +25965,7 @@
     "name": "howler.js",
     "original_repository": "goldfire/howler.js",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:18.349Z",
+    "last_synced": "2025-11-29T00:15:29.921Z",
     "sync_history": [
       {
         "status": "success",
@@ -26360,6 +26570,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:18.349Z",
         "message": "This branch is not behind the upstream goldfire:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:29.921Z",
+        "message": "This branch is not behind the upstream goldfire:master."
       }
     ]
   },
@@ -26367,7 +26582,7 @@
     "name": "hackathon",
     "original_repository": "WoopSicredi/hackathon",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:15.489Z",
+    "last_synced": "2025-11-29T00:15:26.751Z",
     "sync_history": [
       {
         "status": "success",
@@ -26972,6 +27187,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:15.489Z",
         "message": "This branch is not behind the upstream WoopSicredi:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:26.751Z",
+        "message": "This branch is not behind the upstream WoopSicredi:master."
       }
     ]
   },
@@ -26979,7 +27199,7 @@
     "name": "30-days-of-elixir",
     "original_repository": "seven1m/30-days-of-elixir",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:08.696Z",
+    "last_synced": "2025-11-29T00:14:11.970Z",
     "sync_history": [
       {
         "status": "success",
@@ -27584,6 +27804,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:08.696Z",
         "message": "This branch is not behind the upstream seven1m:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:11.970Z",
+        "message": "This branch is not behind the upstream seven1m:master."
       }
     ]
   },
@@ -27591,7 +27816,7 @@
     "name": "open_pantry",
     "original_repository": "openpantry/open_pantry",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:39.012Z",
+    "last_synced": "2025-11-29T00:15:53.057Z",
     "sync_history": [
       {
         "status": "success",
@@ -28196,6 +28421,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:39.012Z",
         "message": "This branch is not behind the upstream openpantry:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:53.057Z",
+        "message": "This branch is not behind the upstream openpantry:master."
       }
     ]
   },
@@ -28203,7 +28433,7 @@
     "name": "vue-material",
     "original_repository": "vuematerial/vue-material",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:16:07.114Z",
+    "last_synced": "2025-11-29T00:16:24.687Z",
     "sync_history": [
       {
         "status": "success",
@@ -28808,6 +29038,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:16:07.114Z",
         "message": "This branch is not behind the upstream vuematerial:dev."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:16:24.687Z",
+        "message": "This branch is not behind the upstream vuematerial:dev."
       }
     ]
   },
@@ -28815,7 +29050,7 @@
     "name": "zxcvbn-ex",
     "original_repository": "sevenshores/zxcvbn-ex",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:16:17.401Z",
+    "last_synced": "2025-11-29T00:16:36.089Z",
     "sync_history": [
       {
         "status": "success",
@@ -29416,6 +29651,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:16:17.401Z",
         "message": "This branch is not behind the upstream sevenshores:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:16:36.089Z",
+        "message": "This branch is not behind the upstream sevenshores:master."
       }
     ]
   },
@@ -29423,7 +29663,7 @@
     "name": "justo-chatbot",
     "original_repository": "justo-justiceiro/justo-chatbot",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:21.315Z",
+    "last_synced": "2025-11-29T00:15:33.137Z",
     "sync_history": [
       {
         "status": "success",
@@ -30028,6 +30268,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:21.315Z",
         "message": "This branch is not behind the upstream justo-justiceiro:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:33.137Z",
+        "message": "This branch is not behind the upstream justo-justiceiro:master."
       }
     ]
   },
@@ -30035,7 +30280,7 @@
     "name": "resources",
     "original_repository": "oiwarren/resources-1",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:55.325Z",
+    "last_synced": "2025-11-29T00:16:11.383Z",
     "sync_history": [
       {
         "status": "success",
@@ -30640,6 +30885,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:55.325Z",
         "message": "This branch is not behind the upstream oiwarren:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:16:11.383Z",
+        "message": "This branch is not behind the upstream oiwarren:master."
       }
     ]
   },
@@ -30647,7 +30897,7 @@
     "name": "warren-docker-environment",
     "original_repository": "warrenbrasil/docker-environment",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:16:09.990Z",
+    "last_synced": "2025-11-29T00:16:27.964Z",
     "sync_history": [
       {
         "status": "success",
@@ -31252,6 +31502,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:16:09.990Z",
         "message": "This branch is not behind the upstream warrenbrasil:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:16:27.964Z",
+        "message": "This branch is not behind the upstream warrenbrasil:master."
       }
     ]
   },
@@ -31259,7 +31514,7 @@
     "name": "DefinitelyTyped",
     "original_repository": "DefinitelyTyped/DefinitelyTyped",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:48.832Z",
+    "last_synced": "2025-11-29T00:14:56.986Z",
     "sync_history": [
       {
         "status": "success",
@@ -31864,6 +32119,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:48.832Z",
         "message": "Successfully fetched and fast-forwarded from upstream DefinitelyTyped:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:56.986Z",
+        "message": "Successfully fetched and fast-forwarded from upstream DefinitelyTyped:master."
       }
     ]
   },
@@ -31871,7 +32131,7 @@
     "name": "takeover.sh",
     "original_repository": "marcan/takeover.sh",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:16:01.309Z",
+    "last_synced": "2025-11-29T00:16:17.978Z",
     "sync_history": [
       {
         "status": "success",
@@ -32476,6 +32736,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:16:01.309Z",
         "message": "This branch is not behind the upstream marcan:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:16:17.978Z",
+        "message": "This branch is not behind the upstream marcan:master."
       }
     ]
   },
@@ -32483,7 +32748,7 @@
     "name": "AI_in_Finance",
     "original_repository": "llSourcell/AI_in_Finance",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:10.194Z",
+    "last_synced": "2025-11-29T00:14:13.668Z",
     "sync_history": [
       {
         "status": "success",
@@ -33088,6 +33353,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:10.194Z",
         "message": "This branch is not behind the upstream llSourcell:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:13.668Z",
+        "message": "This branch is not behind the upstream llSourcell:master."
       }
     ]
   },
@@ -33095,7 +33365,7 @@
     "name": "FiraCode",
     "original_repository": "tonsky/FiraCode",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:07.995Z",
+    "last_synced": "2025-11-29T00:15:18.300Z",
     "sync_history": [
       {
         "status": "success",
@@ -33700,6 +33970,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:07.995Z",
         "message": "This branch is not behind the upstream tonsky:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:18.300Z",
+        "message": "This branch is not behind the upstream tonsky:master."
       }
     ]
   },
@@ -33707,7 +33982,7 @@
     "name": "temp-throttle",
     "original_repository": "Sepero/temp-throttle",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:16:02.726Z",
+    "last_synced": "2025-11-29T00:16:19.593Z",
     "sync_history": [
       {
         "status": "failed",
@@ -34313,6 +34588,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:16:02.726Z",
         "message": "This branch is not behind the upstream Sepero:stable."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:16:19.593Z",
+        "message": "This branch is not behind the upstream Sepero:stable."
       }
     ],
     "error": "There are merge conflicts - https://docs.github.com/rest/branches/branches#sync-a-fork-branch-with-the-upstream-repository"
@@ -34321,7 +34601,7 @@
     "name": "diff-zoo",
     "original_repository": "MikeInnes/diff-zoo",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:51.791Z",
+    "last_synced": "2025-11-29T00:15:00.122Z",
     "sync_history": [
       {
         "status": "success",
@@ -34926,6 +35206,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:51.791Z",
         "message": "This branch is not behind the upstream MikeInnes:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:00.122Z",
+        "message": "This branch is not behind the upstream MikeInnes:master."
       }
     ]
   },
@@ -34933,7 +35218,7 @@
     "name": "electric-io",
     "original_repository": "noopkat/electric-io",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:59.260Z",
+    "last_synced": "2025-11-29T00:15:08.410Z",
     "sync_history": [
       {
         "status": "success",
@@ -35538,6 +35823,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:59.260Z",
         "message": "This branch is not behind the upstream noopkat:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:08.410Z",
+        "message": "This branch is not behind the upstream noopkat:master."
       }
     ]
   },
@@ -35545,7 +35835,7 @@
     "name": "coding-interview-university",
     "original_repository": "jwasham/coding-interview-university",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:44.319Z",
+    "last_synced": "2025-11-29T00:14:52.099Z",
     "sync_history": [
       {
         "status": "success",
@@ -36150,6 +36440,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:44.319Z",
         "message": "This branch is not behind the upstream jwasham:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:52.099Z",
+        "message": "This branch is not behind the upstream jwasham:main."
       }
     ]
   },
@@ -36157,7 +36452,7 @@
     "name": "querido-diario",
     "original_repository": "okfn-brasil/querido-diario",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:46.402Z",
+    "last_synced": "2025-11-29T00:16:01.419Z",
     "sync_history": [
       {
         "status": "success",
@@ -36762,6 +37057,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:46.402Z",
         "message": "This branch is not behind the upstream okfn-brasil:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:16:01.419Z",
+        "message": "This branch is not behind the upstream okfn-brasil:main."
       }
     ]
   },
@@ -36769,7 +37069,7 @@
     "name": "pandadomalbot",
     "original_repository": "levxyca/pandadomalbot",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:42.032Z",
+    "last_synced": "2025-11-29T00:15:56.408Z",
     "sync_history": [
       {
         "status": "success",
@@ -37374,6 +37674,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:42.032Z",
         "message": "This branch is not behind the upstream levxyca:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:56.408Z",
+        "message": "This branch is not behind the upstream levxyca:main."
       }
     ]
   },
@@ -37968,7 +38273,7 @@
     "name": "audacity",
     "original_repository": "audacity/audacity",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:16.227Z",
+    "last_synced": "2025-11-29T00:14:20.499Z",
     "sync_history": [
       {
         "status": "success",
@@ -38573,6 +38878,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:16.227Z",
         "message": "Successfully fetched and fast-forwarded from upstream audacity:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:20.499Z",
+        "message": "Successfully fetched and fast-forwarded from upstream audacity:master."
       }
     ]
   },
@@ -38580,7 +38890,7 @@
     "name": "zendesk_api_client_rb",
     "original_repository": "zendesk/zendesk_api_client_rb",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:16:14.515Z",
+    "last_synced": "2025-11-29T00:16:32.801Z",
     "sync_history": [
       {
         "status": "success",
@@ -39181,6 +39491,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:16:14.515Z",
         "message": "Successfully fetched and fast-forwarded from upstream zendesk:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:16:32.801Z",
+        "message": "This branch is not behind the upstream zendesk:main."
       }
     ]
   },
@@ -39188,7 +39503,7 @@
     "name": "zero-to-production",
     "original_repository": "LukeMathWalker/zero-to-production",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:16:15.964Z",
+    "last_synced": "2025-11-29T00:16:34.409Z",
     "sync_history": [
       {
         "status": "success",
@@ -39789,6 +40104,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:16:15.964Z",
         "message": "This branch is not behind the upstream LukeMathWalker:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:16:34.409Z",
+        "message": "This branch is not behind the upstream LukeMathWalker:main."
       }
     ]
   },
@@ -39796,7 +40116,7 @@
     "name": "evaluator",
     "original_repository": "undertakehq/evaluator",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:02.190Z",
+    "last_synced": "2025-11-29T00:15:11.940Z",
     "sync_history": [
       {
         "status": "success",
@@ -40401,6 +40721,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:02.190Z",
         "message": "This branch is not behind the upstream undertakehq:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:11.940Z",
+        "message": "This branch is not behind the upstream undertakehq:main."
       }
     ]
   },
@@ -40408,7 +40733,7 @@
     "name": "bitwarden_server",
     "original_repository": "bitwarden/server",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:31.088Z",
+    "last_synced": "2025-11-29T00:14:37.117Z",
     "sync_history": [
       {
         "status": "success",
@@ -41013,6 +41338,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:31.088Z",
         "message": "Successfully fetched and fast-forwarded from upstream bitwarden:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:37.117Z",
+        "message": "Successfully fetched and fast-forwarded from upstream bitwarden:main."
       }
     ]
   },
@@ -41020,7 +41350,7 @@
     "name": "alfred-zoxide",
     "original_repository": "yihou/alfred-zoxide",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:14.632Z",
+    "last_synced": "2025-11-29T00:14:18.731Z",
     "sync_history": [
       {
         "status": "success",
@@ -41625,6 +41955,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:14.632Z",
         "message": "This branch is not behind the upstream yihou:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:18.731Z",
+        "message": "This branch is not behind the upstream yihou:main."
       }
     ]
   },
@@ -41632,7 +41967,7 @@
     "name": "markdownload",
     "original_repository": "deathau/markdownload",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:24.244Z",
+    "last_synced": "2025-11-29T00:15:36.309Z",
     "sync_history": [
       {
         "status": "success",
@@ -42237,6 +42572,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:24.244Z",
         "message": "This branch is not behind the upstream deathau:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:36.309Z",
+        "message": "This branch is not behind the upstream deathau:main."
       }
     ]
   },
@@ -42244,7 +42584,7 @@
     "name": "obsidian-readwise",
     "original_repository": "readwiseio/obsidian-readwise",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:37.547Z",
+    "last_synced": "2025-11-29T00:15:51.379Z",
     "sync_history": [
       {
         "status": "success",
@@ -42849,6 +43189,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:37.547Z",
         "message": "This branch is not behind the upstream readwiseio:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:51.379Z",
+        "message": "This branch is not behind the upstream readwiseio:master."
       }
     ]
   },
@@ -42856,7 +43201,7 @@
     "name": "vlllm-project_production-stack",
     "original_repository": "vllm-project/production-stack",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:16:05.671Z",
+    "last_synced": "2025-11-29T00:16:23.042Z",
     "sync_history": [
       {
         "status": "success",
@@ -43461,6 +43806,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:16:05.671Z",
         "message": "This branch is not behind the upstream vllm-project:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:16:23.042Z",
+        "message": "This branch is not behind the upstream vllm-project:main."
       }
     ]
   },
@@ -43468,7 +43818,7 @@
     "name": "whatsapp-ai-companion",
     "original_repository": "neural-maze/ava-whatsapp-agent-course",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:16:11.461Z",
+    "last_synced": "2025-11-29T00:16:29.581Z",
     "sync_history": [
       {
         "status": "success",
@@ -44069,6 +44419,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:16:11.461Z",
         "message": "This branch is not behind the upstream neural-maze:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:16:29.581Z",
+        "message": "This branch is not behind the upstream neural-maze:main."
       }
     ]
   },
@@ -44076,7 +44431,7 @@
     "name": "finicky",
     "original_repository": "johnste/finicky",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:06.555Z",
+    "last_synced": "2025-11-29T00:15:16.700Z",
     "sync_history": [
       {
         "status": "success",
@@ -44681,6 +45036,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:06.555Z",
         "message": "This branch is not behind the upstream johnste:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:16.700Z",
+        "message": "This branch is not behind the upstream johnste:main."
       }
     ]
   },
@@ -44688,7 +45048,7 @@
     "name": "edgartools",
     "original_repository": "dgunning/edgartools",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:57.776Z",
+    "last_synced": "2025-11-29T00:15:06.781Z",
     "sync_history": [
       {
         "status": "success",
@@ -45293,6 +45653,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:57.776Z",
         "message": "Successfully fetched and fast-forwarded from upstream dgunning:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:06.781Z",
+        "message": "Successfully fetched and fast-forwarded from upstream dgunning:main."
       }
     ]
   },
@@ -45300,7 +45665,7 @@
     "name": "mediar-ai_screenpipe",
     "original_repository": "mediar-ai/screenpipe",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:27.138Z",
+    "last_synced": "2025-11-29T00:15:39.634Z",
     "sync_history": [
       {
         "status": "success",
@@ -45905,6 +46270,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:27.138Z",
         "message": "This branch is not behind the upstream mediar-ai:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:39.634Z",
+        "message": "This branch is not behind the upstream mediar-ai:main."
       }
     ]
   },
@@ -45912,7 +46282,7 @@
     "name": "alfred-ollama",
     "original_repository": "zeitlings/alfred-ollama",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:13.105Z",
+    "last_synced": "2025-11-29T00:14:17.090Z",
     "sync_history": [
       {
         "status": "success",
@@ -46517,6 +46887,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:13.105Z",
         "message": "This branch is not behind the upstream zeitlings:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:17.090Z",
+        "message": "This branch is not behind the upstream zeitlings:main."
       }
     ]
   },
@@ -46524,7 +46899,7 @@
     "name": "exo",
     "original_repository": "exo-explore/exo",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:03.633Z",
+    "last_synced": "2025-11-29T00:15:13.514Z",
     "sync_history": [
       {
         "status": "success",
@@ -47129,6 +47504,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:03.633Z",
         "message": "This branch is not behind the upstream exo-explore:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:13.514Z",
+        "message": "This branch is not behind the upstream exo-explore:main."
       }
     ]
   },
@@ -47136,7 +47516,7 @@
     "name": "alfred-browser-tabs",
     "original_repository": "epilande/alfred-browser-tabs",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:11.686Z",
+    "last_synced": "2025-11-29T00:14:15.462Z",
     "sync_history": [
       {
         "status": "success",
@@ -47741,6 +48121,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:11.686Z",
         "message": "This branch is not behind the upstream epilande:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:15.462Z",
+        "message": "This branch is not behind the upstream epilande:main."
       }
     ]
   },
@@ -47748,7 +48133,7 @@
     "name": "cnc_tiberian_dawn",
     "original_repository": "electronicarts/CnC_Tiberian_Dawn",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:42.864Z",
+    "last_synced": "2025-11-29T00:14:50.459Z",
     "sync_history": [
       {
         "status": "success",
@@ -48353,6 +48738,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:42.864Z",
         "message": "This branch is not behind the upstream electronicarts:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:50.459Z",
+        "message": "This branch is not behind the upstream electronicarts:main."
       }
     ]
   },
@@ -48360,7 +48750,7 @@
     "name": "cnc_red_alert",
     "original_repository": "electronicarts/CnC_Red_Alert",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:39.968Z",
+    "last_synced": "2025-11-29T00:14:47.076Z",
     "sync_history": [
       {
         "status": "success",
@@ -48965,6 +49355,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:39.968Z",
         "message": "This branch is not behind the upstream electronicarts:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:47.076Z",
+        "message": "This branch is not behind the upstream electronicarts:main."
       }
     ]
   },
@@ -48972,7 +49367,7 @@
     "name": "cnc_renegade",
     "original_repository": "electronicarts/CnC_Renegade",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:41.472Z",
+    "last_synced": "2025-11-29T00:14:48.849Z",
     "sync_history": [
       {
         "status": "success",
@@ -49577,6 +49972,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:41.472Z",
         "message": "This branch is not behind the upstream electronicarts:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:48.849Z",
+        "message": "This branch is not behind the upstream electronicarts:main."
       }
     ]
   },
@@ -49584,7 +49984,7 @@
     "name": "cnc_generals_zero_hour",
     "original_repository": "electronicarts/CnC_Generals_Zero_Hour",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:36.976Z",
+    "last_synced": "2025-11-29T00:14:43.689Z",
     "sync_history": [
       {
         "status": "success",
@@ -50189,6 +50589,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:36.976Z",
         "message": "This branch is not behind the upstream electronicarts:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:43.689Z",
+        "message": "This branch is not behind the upstream electronicarts:main."
       }
     ]
   },
@@ -50196,7 +50601,7 @@
     "name": "cnc_modding_support",
     "original_repository": "electronicarts/CnC_Modding_Support",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:14:38.458Z",
+    "last_synced": "2025-11-29T00:14:45.305Z",
     "sync_history": [
       {
         "status": "success",
@@ -50801,6 +51206,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:14:38.458Z",
         "message": "This branch is not behind the upstream electronicarts:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:14:45.305Z",
+        "message": "This branch is not behind the upstream electronicarts:main."
       }
     ]
   },
@@ -50808,7 +51218,7 @@
     "name": "rdedup",
     "original_repository": "dpc/rdedup",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:50.863Z",
+    "last_synced": "2025-11-29T00:16:06.430Z",
     "sync_history": [
       {
         "status": "success",
@@ -51413,6 +51823,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:50.863Z",
         "message": "This branch is not behind the upstream dpc:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:16:06.430Z",
+        "message": "This branch is not behind the upstream dpc:master."
       }
     ]
   },
@@ -51420,7 +51835,7 @@
     "name": "obsidian-clipper",
     "original_repository": "obsidianmd/obsidian-clipper",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:34.667Z",
+    "last_synced": "2025-11-29T00:15:48.100Z",
     "sync_history": [
       {
         "status": "success",
@@ -52025,6 +52440,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:34.667Z",
         "message": "This branch is not behind the upstream obsidianmd:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:48.100Z",
+        "message": "This branch is not behind the upstream obsidianmd:main."
       }
     ]
   },
@@ -52032,7 +52452,7 @@
     "name": "email-sleuth",
     "original_repository": "tokenizer-decode/email-sleuth",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:00.679Z",
+    "last_synced": "2025-11-29T00:15:10.149Z",
     "sync_history": [
       {
         "status": "success",
@@ -52578,6 +52998,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:00.679Z",
         "message": "This branch is not behind the upstream buyukakyuz:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:10.149Z",
+        "message": "This branch is not behind the upstream buyukakyuz:main."
       }
     ]
   },
@@ -52585,7 +53010,7 @@
     "name": "RooCodeInc_Roo-Code",
     "original_repository": "RooCodeInc/Roo-Code",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:56.883Z",
+    "last_synced": "2025-11-29T00:16:13.074Z",
     "sync_history": [
       {
         "status": "success",
@@ -52996,6 +53421,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:56.883Z",
         "message": "Successfully fetched and fast-forwarded from upstream RooCodeInc:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:16:13.074Z",
+        "message": "Successfully fetched and fast-forwarded from upstream RooCodeInc:main."
       }
     ]
   },
@@ -53003,7 +53433,7 @@
     "name": "yousseb_meld",
     "original_repository": "yousseb/meld",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:16:12.917Z",
+    "last_synced": "2025-11-29T00:16:31.210Z",
     "sync_history": [
       {
         "status": "success",
@@ -53364,6 +53794,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:16:12.917Z",
         "message": "This branch is not behind the upstream yousseb:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:16:31.210Z",
+        "message": "This branch is not behind the upstream yousseb:master."
       }
     ]
   },
@@ -53371,7 +53806,7 @@
     "name": "obsidian-find-unlinked-files",
     "original_repository": "Vinzent03/find-unlinked-files",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:36.097Z",
+    "last_synced": "2025-11-29T00:15:49.778Z",
     "sync_history": [
       {
         "status": "success",
@@ -53587,6 +54022,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:36.097Z",
         "message": "This branch is not behind the upstream Vinzent03:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:49.778Z",
+        "message": "This branch is not behind the upstream Vinzent03:main."
       }
     ],
     "error": "Server Error"
@@ -53595,7 +54035,7 @@
     "name": "mdbook-epub",
     "original_repository": "Michael-F-Bryan/mdbook-epub",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:25.700Z",
+    "last_synced": "2025-11-29T00:15:38.033Z",
     "sync_history": [
       {
         "status": "success",
@@ -53796,6 +54236,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:25.700Z",
         "message": "This branch is not behind the upstream Michael-F-Bryan:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:38.033Z",
+        "message": "This branch is not behind the upstream Michael-F-Bryan:master."
       }
     ]
   },
@@ -53803,7 +54248,7 @@
     "name": "osc_obsidian-mcp-tools",
     "original_repository": "jacksteamdev/obsidian-mcp-tools",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:40.528Z",
+    "last_synced": "2025-11-29T00:15:54.713Z",
     "sync_history": [
       {
         "status": "success",
@@ -53964,6 +54409,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:40.528Z",
         "message": "This branch is not behind the upstream jacksteamdev:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:54.713Z",
+        "message": "This branch is not behind the upstream jacksteamdev:main."
       }
     ]
   },
@@ -53971,7 +54421,7 @@
     "name": "ruby-standards",
     "original_repository": "undertakehq/ruby-standards",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:59.800Z",
+    "last_synced": "2025-11-29T00:16:16.325Z",
     "sync_history": [
       {
         "status": "success",
@@ -54052,6 +54502,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:59.800Z",
         "message": "This branch is not behind the upstream undertakehq:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:16:16.325Z",
+        "message": "This branch is not behind the upstream undertakehq:main."
       }
     ]
   },
@@ -54059,7 +54514,7 @@
     "name": "rails-standards",
     "original_repository": "undertakehq/rails-standards",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:49.349Z",
+    "last_synced": "2025-11-29T00:16:04.729Z",
     "sync_history": [
       {
         "status": "success",
@@ -54140,6 +54595,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:49.349Z",
         "message": "This branch is not behind the upstream undertakehq:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:16:04.729Z",
+        "message": "This branch is not behind the upstream undertakehq:main."
       }
     ]
   },
@@ -54147,7 +54607,7 @@
     "name": "Extensoes-Maneiras-Para-Sua-IDE",
     "original_repository": "acaverna/Extensoes-Maneiras-Para-Sua-IDE",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:05.150Z",
+    "last_synced": "2025-11-29T00:15:15.134Z",
     "sync_history": [
       {
         "status": "success",
@@ -54223,6 +54683,11 @@
         "status": "success",
         "synced_at": "2025-11-27T00:15:05.150Z",
         "message": "This branch is not behind the upstream acaverna:master."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:15.134Z",
+        "message": "This branch is not behind the upstream acaverna:master."
       }
     ]
   },
@@ -54230,7 +54695,7 @@
     "name": "nuts",
     "original_repository": "network-unit-testing-system/nuts",
     "last_sync_status": "success",
-    "last_synced": "2025-11-27T00:15:33.094Z",
+    "last_synced": "2025-11-29T00:15:46.397Z",
     "sync_history": [
       {
         "status": "success",
@@ -54300,6 +54765,11 @@
       {
         "status": "success",
         "synced_at": "2025-11-27T00:15:33.094Z",
+        "message": "This branch is not behind the upstream network-unit-testing-system:main."
+      },
+      {
+        "status": "success",
+        "synced_at": "2025-11-29T00:15:46.397Z",
         "message": "This branch is not behind the upstream network-unit-testing-system:main."
       }
     ]
